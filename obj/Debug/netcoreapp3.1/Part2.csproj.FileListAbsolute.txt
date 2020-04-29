@@ -1,0 +1,13 @@
+C:\Users\C#Developer\Desktop\Part2\bin\Debug\netcoreapp3.1\Part2.exe
+C:\Users\C#Developer\Desktop\Part2\bin\Debug\netcoreapp3.1\Part2.deps.json
+C:\Users\C#Developer\Desktop\Part2\bin\Debug\netcoreapp3.1\Part2.runtimeconfig.json
+C:\Users\C#Developer\Desktop\Part2\bin\Debug\netcoreapp3.1\Part2.runtimeconfig.dev.json
+C:\Users\C#Developer\Desktop\Part2\bin\Debug\netcoreapp3.1\Part2.dll
+C:\Users\C#Developer\Desktop\Part2\bin\Debug\netcoreapp3.1\Part2.pdb
+C:\Users\C#Developer\Desktop\Part2\obj\Debug\netcoreapp3.1\Part2.csprojAssemblyReference.cache
+C:\Users\C#Developer\Desktop\Part2\obj\Debug\netcoreapp3.1\Part2.csproj.CoreCompileInputs.cache
+C:\Users\C#Developer\Desktop\Part2\obj\Debug\netcoreapp3.1\Part2.AssemblyInfoInputs.cache
+C:\Users\C#Developer\Desktop\Part2\obj\Debug\netcoreapp3.1\Part2.AssemblyInfo.cs
+C:\Users\C#Developer\Desktop\Part2\obj\Debug\netcoreapp3.1\Part2.dll
+C:\Users\C#Developer\Desktop\Part2\obj\Debug\netcoreapp3.1\Part2.pdb
+C:\Users\C#Developer\Desktop\Part2\obj\Debug\netcoreapp3.1\Part2.genruntimeconfig.cache
